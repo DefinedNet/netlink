@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/vishvananda/netlink/nl"
+	"github.com/DefinedNet/netlink/nl"
 	"golang.org/x/sys/unix"
 )
 

@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/DefinedNet/netlink/nl"
 	"github.com/stretchr/testify/assert"
-	"github.com/vishvananda/netlink/nl"
 	"golang.org/x/sys/unix"
 )
 

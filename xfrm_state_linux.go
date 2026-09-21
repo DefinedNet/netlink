@@ -7,7 +7,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/vishvananda/netlink/nl"
+	"github.com/DefinedNet/netlink/nl"
 	"golang.org/x/sys/unix"
 )
 
